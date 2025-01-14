@@ -4,6 +4,11 @@ VisualStudioVersion = 17.12.35527.113
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DapperDomain", "DapperDomain.csproj", "{4211DAFC-3B57-4CC6-9B22-5237763A1C05}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{917ED95D-C29C-4064-9C32-8E8598C38AF3}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\MISC\domains.db3 = ..\..\MISC\domains.db3
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
