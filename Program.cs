@@ -1,2 +1,7 @@
-﻿// See https://aka.ms/new-console-template for more information
+﻿using Dapper;
+using System;
+
+ 
+
 Console.WriteLine("Hello, World!");
+
